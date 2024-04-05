@@ -85,28 +85,28 @@ print("RMSE= ",rmse)
 
 ## Output:
 ### Dataset
-![image](https://github.com/DEVADARSHAN2/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119432150/f8764d0f-b615-41e5-b009-9f536c44950b)
+![image](https://github.com/NyomX/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/145953580/e9135290-55a7-4cbe-98fd-2748433f7a23)
 
 ### Head
-![image](https://github.com/DEVADARSHAN2/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119432150/c1cff07a-3a3b-4ddb-91db-6555fb29d5a7)
+![image](https://github.com/NyomX/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/145953580/eaf45881-4d02-4fe6-9946-edc46e39f842)
 
 ### Tail
-![image](https://github.com/DEVADARSHAN2/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119432150/d0a05ee3-5a24-476c-b5a0-e1027cf8243b)
+![image](https://github.com/NyomX/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/145953580/982c5653-83e1-47af-924b-8dfe9d36297e)
 
 ### X and Y values
-![image](https://github.com/DEVADARSHAN2/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119432150/8d311101-fe65-44b6-8b01-f3fd74ace3c9)
+![image](https://github.com/NyomX/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/145953580/330317ec-6feb-4716-b3ba-2a2c8790b4ca)
 
 ### Predicted values
-![image](https://github.com/DEVADARSHAN2/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119432150/ed83eccd-9b14-409c-8c53-358941b039ac)
+![image](https://github.com/NyomX/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/145953580/5e43890a-e2a8-4dd3-93b4-8549c3d28fca)
 
 ### Training set
-![image](https://github.com/DEVADARSHAN2/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119432150/130f8975-c37f-4108-9d2f-d725df3ae8f7)
+![image](https://github.com/NyomX/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/145953580/53e0291f-b14a-4c4f-9a02-c1052a694bb8)
 
 ###  Testing set
-![image](https://github.com/DEVADARSHAN2/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119432150/1f0ad825-699a-4440-96ae-04c4d6145748)
+![image](https://github.com/NyomX/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/145953580/d1304e63-e9af-434e-a32e-dd91f894d217)
 
 ### Error calculation
-![image](https://github.com/DEVADARSHAN2/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119432150/6aaf04ed-6739-4d67-a4db-b6b2b6cea827)
+![image](https://github.com/NyomX/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/145953580/57417ac2-61c3-48f3-8d01-4d711b3eb69a)
 
 
 
